@@ -1,0 +1,14 @@
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+*.cache
+/obj/
+[Bb]uild/
+Logs/
+.idea
+*.csproj
+*.sln
+obj
