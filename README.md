@@ -27,4 +27,15 @@ You are free to add anything you like, the more creative the better but here are
 1. Hovering over unit could render an outline-style shader.
 2. The shader could change colour depending on the unit health.
 
+## Additional information
+- It is possible to include Unity built-in packages and packages of the Unity Registry, but it is not possible to use
+3rd party packages or assets coming from the Asset Store or other sources, except for animations (e.g.
+DOTween), and already included in manifest.json
+
+- You can modify any code in the project if you see any places which can be improved in example: optimizations
+or architecture.
+
+- During the review we will look at the code quality and implementation, as well as Unity integration and performance.
+It's early prototype, but it's good to follow good practices
+
 Good luck ✨
